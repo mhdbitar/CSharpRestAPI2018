@@ -1,0 +1,15 @@
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.csprojResolveAssemblyReference.cache
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.csproj.CoreCompileInputs.cache
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.AssemblyInfoInputs.cache
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.AssemblyInfo.cs
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.deps.json
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.runtimeconfig.json
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.runtimeconfig.dev.json
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.dll
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.pdb
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppBLL.dll
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppDAL.dll
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppBLL.pdb
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppDAL.pdb
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.dll
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.pdb

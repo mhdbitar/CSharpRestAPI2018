@@ -1,0 +1,11 @@
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp2.0\CustomerAppBLL.deps.json
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp2.0\CustomerAppBLL.dll
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp2.0\CustomerAppBLL.pdb
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp2.0\CustomerAppDAL.dll
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp2.0\CustomerAppDAL.pdb
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.csprojResolveAssemblyReference.cache
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.csproj.CoreCompileInputs.cache
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.AssemblyInfoInputs.cache
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.AssemblyInfo.cs
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.dll
+C:\Users\engmh\Source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.pdb
